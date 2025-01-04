@@ -1,14 +1,20 @@
-UIUC ECE311 Digital Signal Processing Lab -- Fall 2023
+## UIUC ECE311 Digital Signal Processing Lab -- Fall 2023
 
-Orientation and overview of Python and DSP 
-DTFT, DFT, DFT Spectral Analysis
+## Overview:
 
-Windowing, Convolution, LSI systems, Difference Equations 
+Detailed Description and Outline
+Lab course associated with ECE 310.
 
-z-Transforms, Pole-Zero Diagrams, BIBO Stability
+(1)Orientation and overview of Python and DSP 
 
-Frequency Response of Discrete Time Systems 
+(2)DTFT, DFT, DFT Spectral Analysis
 
-FIR and IIR Filter Design 
+(3)Windowing, Convolution, LSI systems, Difference Equations
 
-DSP and image processing applications
+(4)z-Transforms, Pole-Zero Diagrams, BIBO Stability 
+
+(5)Frequency Response of Discrete Time Systems 
+
+(6)FIR and IIR Filter Design
+
+(7)DSP and image processing applications 
